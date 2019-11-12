@@ -62,7 +62,7 @@ public class TestMaps {
 		System.out.println("enter petname to search");
 		in = sc2.nextLine();
 		
-		System.out.println("searching in petnames = "+friends.containsValue(in));
+		System.out.println("searching in petnames blah = "+friends.containsValue(in));
 		
 		System.out.println("Give input of part name to search");
 		in = sc2.nextLine();
