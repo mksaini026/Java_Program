@@ -19,6 +19,8 @@ public class Palindrome {
 		}
 		System.out.println("given number is Palindrome?");
 		System.out.println(r==temp);
+		TestAdd.sumI(1,2);
+		System.out.println(TestAdd.test123.a);
 	}
 	
 }
