@@ -1,6 +1,7 @@
 package collection;
 
 import java.util.HashSet;
+import java.util.Scanner;
 
 public class TestSetAPI {
 
@@ -28,6 +29,7 @@ public class TestSetAPI {
 		System.out.println("adding s3 "+s3 +" into hs = "+hs.add(s3));
 		System.out.println("adding s7 "+s7 +" into hs = "+hs.add(s7));
 		
+	
 		
 	}
 
