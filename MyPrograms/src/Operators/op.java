@@ -1,7 +1,7 @@
 package Operators;
 
 public class op {
-	public static void main(String[] args)   
+	public static void main(String[] args) throws Exception  
 	{ 
 //		int a=10;   
 //		System.out.println(a++ + ++a );     
@@ -15,7 +15,12 @@ public class op {
 		System.out.println(a>b && a++<c);
 		System.out.println(a); 
 		System.out.println(a>b & a++<c);  
-		System.out.println(a); 	
+		System.out.println(a); 
+		
+		System.out.println(a<b || a++<c);  
+		System.out.println(a); 
+		System.out.println(a<b | a++<c);   
+		System.out.println(a); 
 	} 
 
 }
