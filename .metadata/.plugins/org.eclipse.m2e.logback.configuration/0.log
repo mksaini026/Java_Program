@@ -74,3 +74,6 @@ org.eclipse.jdt.core.JavaModelException: bin/nestedClass [in MyPrograms] is not 
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1468) ~[org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar:na]
+2019-12-11 20:04:17,159 [Worker-15: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-11 20:04:55,989 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-11 20:15:54,449 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

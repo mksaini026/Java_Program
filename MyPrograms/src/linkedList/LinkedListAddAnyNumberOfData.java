@@ -174,7 +174,7 @@ public class LinkedListAddAnyNumberOfData extends LinkedList
 	public int remove(int data) 
 	{
 
-		return 0;
+		return 1;
 	}
 	
 }
