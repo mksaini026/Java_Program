@@ -30,7 +30,7 @@ class TestThisKeyword
 		System.out.println("return value = "+s);
 		System.out.println("return value = "+sum(3,4));
 
-		System.out.println(m4());
+//		System.out.println(m4());
 	}
 
 	int m1()

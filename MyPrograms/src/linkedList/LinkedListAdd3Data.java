@@ -109,12 +109,37 @@ public class LinkedListAdd3Data extends LinkedList
 	}
 
 	@Override
+	public void insertionSinglyLinkedListNodeAtBeginning() {
+
+	}
+
+	@Override
+	public void deletionSinglyLinkedListNodeAtBeginning() {
+
+	}
+
+	@Override
+	public void deletionSinglyLinkedListNodeAtLast() {
+
+	}
+
+	@Override
+	public int SinglyLinkedListLength() {
+		return 0;
+	}
+
+	@Override
+	public void SinglyLinkedListIndexedData(int index) {
+
+	}
+
+	//	@Override
 	public void insertionSinglyLinkedListAtBeginning() {
 		// TODO Auto-generated method stub
 		
 	}
 
-	@Override
+//	@Override
 	public void deletionSinglyLinkedListAtBeginning() {
 		// TODO Auto-generated method stub
 		

@@ -1,8 +1,8 @@
 package DuringUttara;
 class Student{}
 class Emp{}
-class Animal{}
-class Dog{}
+//class Animal{}
+//class Dog{}
 class Forest{}
 
 class TestReturnType
