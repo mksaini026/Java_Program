@@ -1,2 +1,0 @@
-0:0:0:0:0:0:0:1 - - [26/Oct/2019:12:04:12 +0530] "GET /TestWeb/Register.html HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [26/Oct/2019:12:04:29 +0530] "GET /TestWeb/submit?uname= HTTP/1.1" 404 1092
