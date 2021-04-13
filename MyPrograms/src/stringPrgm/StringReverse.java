@@ -15,12 +15,12 @@ public class StringReverse
         
         System.out.println(s);
         
-        if(s.compareTo(sb) == 0)
-        {
-            System.out.println("Yes");
-        }
-        else
-            System.out.println("No");
+//        if(s.compareTo(sb) == 0)
+//        {
+//            System.out.println("Yes");
+//        }
+//        else
+//            System.out.println("No");
         
         System.out.println( A.equals( new StringBuffer(A).reverse().toString()) ? "Yes" : "No" );
         

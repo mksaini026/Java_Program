@@ -47,17 +47,17 @@ public class StringMethods {
 		
 		System.out.println();
 		System.out.println("Trim : '" + " Manoj       Monika    ".trim() + "'");
-		System.out.println("Trim : '" + " Manoj       Monika    ".strip() + "'");
-		System.out.println("Trim : '" + " Manoj       Monika    ".stripLeading() + "'");
-		System.out.println("Trim : '" + " Manoj       Monika    ".stripTrailing() + "'");
+//		System.out.println("Trim : '" + " Manoj       Monika    ".strip() + "'");
+//		System.out.println("Trim : '" + " Manoj       Monika    ".stripLeading() + "'");
+//		System.out.println("Trim : '" + " Manoj       Monika    ".stripTrailing() + "'");
 		System.out.println("Replace : " + "Manoj".replace('a', 'i'));
 		
 		System.out.println();
-		System.out.println("IsBlank space : " + " ".isBlank());
-		System.out.println("IsBlank empty: " + "".isBlank());
-		System.out.println("IsBlank word: " + "man".isBlank());
-		System.out.println("IsBlank new line: " + "\n".isBlank());
-		System.out.println("IsBlank tab: " + "\t".isBlank());
+//		System.out.println("IsBlank space : " + " ".isBlank());
+//		System.out.println("IsBlank empty: " + "".isBlank());
+//		System.out.println("IsBlank word: " + "man".isBlank());
+//		System.out.println("IsBlank new line: " + "\n".isBlank());
+//		System.out.println("IsBlank tab: " + "\t".isBlank());
 		
 		System.out.println("IsEmpty space: " + " ".isEmpty());
 		System.out.println("IsEmpty empty: " + "".isEmpty());
@@ -78,7 +78,7 @@ public class StringMethods {
 		System.out.println("Manoj".endsWith("Monika"));
 		System.out.println("Manoj".contains("Man"));
 		System.out.println("Manoj".matches("[A-Z][a-z]+"));
-		System.out.println("Ohhhh Manoj...".repeat(6));
+//		System.out.println("Ohhhh Manoj...".repeat(6));
 
 		
 
